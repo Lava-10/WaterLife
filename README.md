@@ -11,7 +11,7 @@ WaterMind is an innovative platform tackling water conservation challenges by co
 **Frontend**:  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux)
+
 
 **Backend**:  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  

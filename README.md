@@ -2,7 +2,6 @@
 
 **Empowering Water Conservation Through AI & Gamification**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 Overview
 WaterMind is an innovative platform tackling water conservation challenges by combining AI, gamification, and education. Measure your water footprint, join virtual cleanup drives, interact with AI mentors, and learn how to protect our oceans through engaging tools.
